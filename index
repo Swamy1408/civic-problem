@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Login</title>
+</head>
+<body>
+<from action ="login.php" method="username"><br><br><br>
+<br>
+Username:<input type="text" name="username"><br><br>
+<input type="submit" value="submit">
+</from>
+</body>
+</html>
